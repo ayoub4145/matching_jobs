@@ -1,0 +1,5 @@
+requests
+beautifulsoup4
+scikit-learn
+pandas
+PyMuPDF
